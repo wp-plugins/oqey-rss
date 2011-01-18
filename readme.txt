@@ -1,9 +1,9 @@
 === Plugin Name ===
 Plugin Name: oQey Rss
 Version: 0.1
-Contributors: qusites.com
+Contributors: oQeySites.com
 Donate link: http://www.qusites.com/oqey-rss/
-Tags: rss, images, cool rss
+Tags: rss, images, cool rss, custom rss
 Requires at least: 2.9.0
 Tested up to: 2.9.2
 Stable tag: 0.1
@@ -13,7 +13,7 @@ Stable tag: 0.1
 
 oQey Rss plugin is a Wordpress Plugin that allows see images on your rss feed.
 
-For instruction on how to insert the plugin into wp template, please visit www.qusites.com
+For instruction on how to insert the plugin into wp template, please visit www.oqeysites.com
 
 
 == Installation ==
