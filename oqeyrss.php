@@ -1,6 +1,6 @@
 <?php
 // oQey Rss
-// Copyright (c) 2010 www.qusites.com
+// Copyright (c) 2011 www.oqeysites.com
 // This is an plugin for WordPress
 // http://wordpress.org/
 //
@@ -14,8 +14,8 @@
 Plugin Name: oQey Rss
 Version: 0.1
 Description: oQey Rss plugin, will help to have a nice rss feed with images.
-Author: Dorin D. | www.qusites.com
-Author URI: http://www.qusites.com
+Author: oqeysites.com
+Author URI: http://www.oqeysites.com
 */
 if (!empty($_SERVER['SCRIPT_FILENAME']) && 'oqeyrss.php' == basename($_SERVER['SCRIPT_FILENAME']))
 	die ('Please do not load this page directly. Thanks!');
