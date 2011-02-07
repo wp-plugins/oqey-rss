@@ -1,9 +1,9 @@
 === Plugin Name ===
 Plugin Name: oQey Rss
 Version: 0.1
-Contributors: oQeySites.com
-Donate link: http://www.qusites.com/oqey-rss/
-Tags: rss, images, cool rss, custom rss
+Contributors: oQeySites
+Donate link: http://www.oqeysites.com/oqey-rss/
+Tags: rss, images, cool rss, custom rss, oqey rss
 Requires at least: 2.9.0
 Tested up to: 2.9.2
 Stable tag: 0.1
